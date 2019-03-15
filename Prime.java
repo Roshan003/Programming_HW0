@@ -1,6 +1,8 @@
 import java.lang.Thread;
 import java.util.Scanner;
 
+//Hannah Ajayi and Granit Dedushi
+
 public class Prime extends Thread
 {
 	private int givenNum;

@@ -1,4 +1,7 @@
 import java.util.Scanner;
+
+//Mohit Khan
+
 public class MultiThread {
 
 	 public static void main(String []args){

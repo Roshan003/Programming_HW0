@@ -3,6 +3,8 @@
 #include<sys/wait.h>
 #include<unistd.h>
 
+//Fuzail Khan
+
 int main(int x, char **y){
    int n;
   

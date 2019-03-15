@@ -1,6 +1,8 @@
 import java.lang.Thread;
 import java.util.Scanner;
 
+//Granit Dedushi
+
 public class Fibonacci extends Thread
 {
 	private int x;
@@ -29,7 +31,6 @@ public class Fibonacci extends Thread
 				threadf2.join();
 
 				answer = f1.answer + f2.answer;
-
 			}
 			catch(InterruptedException ex) { }
 		}
@@ -51,7 +52,6 @@ public class Fibonacci extends Thread
 					threadf.join();
 
 					System.out.print(f.answer + " ");
-
 				}
 			}
 
